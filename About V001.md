@@ -1,6 +1,6 @@
 # About V0.0.1
 
-Version 0.0.1 is the first publicly available version of MinDungeon. It meant to be an early alpha and showcases all of the core mechanics in their simplest form. 
+Version 0.0.1 is the first publicly available version of MinDungeon. It's meant to be an early alpha and showcases all of the core mechanics in their simplest form. 
 
 I have long been interested in minimalistic game design. As a very busy person, I have always appreciated games that will allow me to just play them for 5 minutes and 
 actually be able to have fun or achieve some meaningful progress. There were many games that used to fit this niche for me but in recent years it appears that this style
@@ -10,7 +10,7 @@ to implement this style in my own way.
 
 I want MinDungeon to be a game that can be played on any platform but for now it is only available on android. It is not random that I decide to first release on mobile devices:
 there is nothing quite as minimalistic as something that you can even play while waiting for a doctor's appointment. Therefore I intend to continue publishing these early alpha
-versions on the game on android. When the game is in a more completed stage I will attempt to publish it on other mobile platforms. And when I get to a near completed state I will attempt
+versions of the game on android. When the game is in a more completed stage I will attempt to publish it on other mobile platforms. And when I get to a near completed state I will attempt
 to publish it in platforms such as Steam so that it may be played in a computer. 
 
 For now V0.0.1 achieves my goal of minimalistic game design. Many mobile games despite having access to a complete touch-screen interface still resort to implementing weird buttons
