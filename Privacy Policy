@@ -2,6 +2,8 @@ MinDungeon Privacy Policy:
 
 MinDungeon is an android app developed by Holder Media and is currently available in the Google PlayStore. 
 
-This app is not programmed to collect any personally identifiable information. In general, the game just tracks score and level information locally.
+This app is not programmed to collect any personally identifiable information. The game just tracks score and level information locally. As of V0.0.6 MinDungeon also
+includes the option of uploading your max depth into our server however this is optional and MinDungeon does not record any unique identifier of who the user is or any
+other type of private information from the user. 
 
 Beyond that, the app includes Admob ads and admob may track your clicks to these ads or use specific information to decide which ads to show you, but none of that information is tracked or stored by the app. This functionality is completely delegated to Google's Admob service.
